@@ -21,22 +21,22 @@ Genomic imprinting is an epigenetic phenomenon where the expression of a gene de
   - Variance: (10, 10, 10)
 - **Correlation Matrix for Additive Genetic Effects:**
   \[
-  \begin{pmatrix}
+  \begin{bmatrix}
   1.00 & 0.80 & 0.40 \\\
   0.80 & 1.00 & 0.40 \\\
   0.40 & 0.40 & 1.00
-  \end{pmatrix}
+  \end{bmatrix}
   \]
 - **Mean and Variance for Imprinting Effects:**
   - Mean: (0, 0, 0)
   - Variance: (9, 9, 9)
 - **Correlation Matrix for Imprinting Effects:**
   \[
-  \begin{pmatrix}
+  \begin{bmatrix}
   1.00 & 0.80 & 0.90 \\\
   0.80 & 1.00 & 0.90 \\\
   0.90 & 0.90 & 1.00
-  \end{pmatrix}
+  \end{bmatrix}
   \]
 
 **3. Simulation Procedure:**
